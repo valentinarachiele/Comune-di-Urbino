@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Manuale Comune di Urbino's documentation!
-====================================================
+Benvenuti nella documentazione relativa alla gestione del sito ufficiale del Comune di Urbino
+=============================================================================================
 
 .. toctree::
    :maxdepth: 2
