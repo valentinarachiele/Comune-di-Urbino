@@ -1,41 +1,25 @@
-$project
-========
+Documentazione relativa al nuovo sito del Comune di Urbino
+==========================================================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Questo manuale ha lo scopo di fornire informazioni utili a tutti coloro
+che saranno incaricati di apportare qualsiasi modifica al `sito web
+della Città di Urbino <http://www.comune.urbino.ps.it>`__. Definisce i
+principi secondo i quali il sito è stato progettato, siano essi
+strutturali, ovvero riguardanti l’organizzazione e la suddivisione dei
+contenuti, che visivi, ovvero le leggi di coerenza e identità grafica,
+stabiliti sulla base delle norme di Designers Italia.
 
-Look how easy it is to use:
+Contenuti principali
+--------------------
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+- Perché questo manuale
+- Linguaggio
+- Design
+- TYPO3
+- Il Sito web
 
-Features
---------
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
+Licenza
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+Questo progetto è licenziato `sotto licenza MIT <https://opensource.org/licenses/MIT>`__.
