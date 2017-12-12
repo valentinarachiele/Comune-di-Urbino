@@ -17,11 +17,3 @@ Benvenuti nella documentazione relativa alla gestione del sito ufficiale del Com
    typo3
    ilsitoweb
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
