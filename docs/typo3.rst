@@ -4,6 +4,8 @@ TYPO3
 Cos’è?
 ~~~~~~
 
+    **TYPO3** è la piattaforma gestionale del sito, detta CMS, dal quale il sito è stato progettato e può essere modificato.
+
     **TYPO3** è un `Web content management
     system <https://it.wikipedia.org/wiki/Web_content_management_system>`__
     pensato per l’amministrazione di siti web.
@@ -24,25 +26,4 @@ Cos’è?
 
     — wikipedia.org
 
-Tutorial
-~~~~~~~~
-
-Nuova Pagina
-^^^^^^^^^^^^
-
-[New-Page][]
-
-Modifica Pagina
-^^^^^^^^^^^^^^^
-
-[Edit-Page][]
-
-Sidebar
-^^^^^^^
-
-`Sidebar <#sidebar>`__
-
-Visualizza Pagina
-^^^^^^^^^^^^^^^^^
-
-[View-Page][]
+    Il sito web della Città di Urbino è già stato pensato e realizzato in maniera completa, e dispone pertanto di tutte le pagine necessarie per il suo funzionamento. Tuttavia, qualora ci sia la necessità, è possibile creare nuovi contenuti o modificare quelli preesistenti tramite **Typo3**.

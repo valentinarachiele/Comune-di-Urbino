@@ -83,12 +83,33 @@ Esse sono studiate infatti per includere ogni tipologia di informazione.
 Aree Tematiche
 ~~~~~~~~~~~~~~
 
-Le Aree Tematiche sono la prima voce del menu del sito del Comune di
-Urbino. Esse sono aree di interesse che contengono i relativi servizi
-offerti al cittadino o le informazioni presenti nei relativi Uffici
-della Città di Urbino.
+Le **Aree Tematiche** sono la prima voce del **Menu**.
 
-Le Aree tematiche sono pensate per i cittadini e per le loro esigenze e sono direttamente legate al lavoro dei diversi Settori del Comune di Urbino.
+Esse sono aree di interesse che contengono i relativi **servizi** offerti al cittadino o le informazioni presenti nei relativi **Uffici** della **Città di Urbino**.
+
+Servono principalmente per facilitare la navigazione ai **cittadini** che usufruiscono del sito.
+
+Le pagine contenute nelle **Aree Tematiche** sono:
+
+-  Ambiente
+-  Anagrafe, Stato civile, Elettorale
+-  Casa
+-  Modulistica
+-  Cultura e tempo libero
+-  Denunce
+-  Economia e Finanza
+-  Elezioni
+-  Famiglia
+-  Lavoro
+-  Salute
+-  Sicurezza e tutela
+-  Sociale, sport e giovani
+-  Studio
+-  Tasse
+-  Trasporti
+-  Urbanistica ed Edilizia*
+-  Turismo
+
 
 Amministrazione
 ~~~~~~~~~~~~~~~
@@ -110,4 +131,5 @@ contatti e informazioni, insieme alle seguenti pagine:
 Vivere Urbino
 ~~~~~~~~~~~~~
 
-Vivere Urbino è la terza voce del menu del sito e contiene i contenuti che possono servire per spostarsi all'interno della città o per raggiungerla.
+**Vivere Urbino** è la terza voce del **Menu**.
+Essa contiente tutti le informazioni che potrebbero servire per raggiungere Urbino o per muoversi all'interno della città.

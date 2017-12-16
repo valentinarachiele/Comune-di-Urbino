@@ -140,37 +140,25 @@ stessa disposizione dei contenuti e la stessa punteggiatura.
 
 Disposizione dei contenuti:
 
--  Indirizzo (esempio: via Santa Chiara 24)
--  Numero di telefono (preceduto dalla dicitura "tel.")
+-  Indirizzo (esempio: via Santa Chiara 24) con link a Google Maps
+-  Nome e Cognome
+-  Numero di telefono con link per l'uso su mobile (preceduto dalla dicitura "tel.")
 -  Fax
 -  Email
 -  Orari di ricevimento
 
-Punteggiatura:
+Esempio:
 
-Sede: via Santa Chiara 24
+Sede via Santa Chiara 24
 
-Responsabile **Mario Rossi**
+Responsabile
+Roberto Imperato
+tel. 0722 309659
+fax 0722 309720
+email rimperato@comune.urbino.ps.it
 
-tel. 0722 111111
-
-fax 0722 111111
-
-email
-`mariorossi@comune.urbino.ps.it <mailto:ccesaroni@comune.urbino.ps.it>`__
-
-Orario ricevimento: lunedì, mercoledì, venerdì dalle 10:30 alle 12:30
-
-**In generale non utilizzare mai i due punti**
-
-• Uniformare gli orari di ricevimento
-
-Apertura al pubblico
-
-| martedì e venerdì 8:30-13:45
-| giovedì 8:30-13:45 e 15:00-17:00
-
-dal lunedì al venerdì 8:30-13:45 su appuntamento
+Orario di ricevimento
+dal lunedì al venerdì 10 - 13:00
 
 Creazione dei link
 ~~~~~~~~~~~~~~~~~~
