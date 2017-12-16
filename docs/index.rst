@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Manuale Comune di Urbino's documentation!
+Benvenuti nella documentazione relativa alla gestione del sito ufficiale del Comune di Urbino
 ====================================================
 
 .. toctree::
@@ -16,12 +16,3 @@ Welcome to Manuale Comune di Urbino's documentation!
    design
    typo3
    ilsitoweb
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
