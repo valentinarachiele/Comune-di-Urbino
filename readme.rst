@@ -13,7 +13,7 @@ Contenuti principali
 --------------------
 
 - Perché questo manuale
-- Linguaggio
+- Contenuti e forma
 - Design
 - TYPO3
 - Il Sito web
