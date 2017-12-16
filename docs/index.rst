@@ -8,11 +8,11 @@ Benvenuti nella documentazione relativa alla gestione del sito ufficiale del Com
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenuti:
 
    perche
    designersitalia
-   linguaggio
+   contenuti
    design
    typo3
    ilsitoweb

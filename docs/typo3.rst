@@ -22,8 +22,8 @@ Cos’è?
     `GPL <https://it.wikipedia.org/wiki/GNU_General_Public_License>`__
     ed è un progetto `open
     source <https://it.wikipedia.org/wiki/Open_source>`__ che viene
-    sviluppato continuamente.
+    aggiornato continuamente.
 
-    — wikipedia.org
+    `Typo3 su Wikipedia <https://it.wikipedia.org/wiki/TYPO3>`__
 
     Il sito web della Città di Urbino è già stato pensato e realizzato in maniera completa, e dispone pertanto di tutte le pagine necessarie per il suo funzionamento. Tuttavia, qualora ci sia la necessità, è possibile creare nuovi contenuti o modificare quelli preesistenti tramite **Typo3**.
